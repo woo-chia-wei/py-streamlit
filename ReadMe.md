@@ -1,5 +1,7 @@
 # About
 Simple streamlit examples
+* Titanic Explorer (Simple widget, scatter plots)
+* Genetic Algorithm TSP Explorer (Animation of evolutionary search)
 
 # Titanic Explorer
 Run command `streamlit run 01_app_titanic.py`, streamlit will open a new tab in browser automatically the screenshot as following:
